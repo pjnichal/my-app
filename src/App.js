@@ -47,7 +47,7 @@ function Home() {
   return <div>Home</div>;
 }
 function User() {
-  return <div>User</div>;
+  return <div>Normal User</div>;
 }
 function Admin() {
   return <div>admin</div>;
